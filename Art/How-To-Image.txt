@@ -1,0 +1,4 @@
+- Paint.net öffnen
+- Bild malen
+- Speichern als "TGA", 32-bit, KEINE Kompression
+- WoW neustarten!

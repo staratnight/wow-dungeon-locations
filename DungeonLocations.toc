@@ -1,0 +1,15 @@
+## Interface: 70300
+## Title: DungeonLocations
+## Author: staratnight
+## Version: 7.3.0-1.4.1.1
+## Notes: Shows the location of dungeons and raids on the world map in the same way it is presented by the default UI since Legion.
+## Notes-deDE: Zeigt die Position von Dungeons und Schlachtzügen auf der Weltkarte an, so wie es im Standard auch für Legion-Instanzen erfolgt.
+## SavedVariables: DungeonLocationsConfig
+
+Localization\en.lua
+Localization\de.lua
+Localization\ru.lua
+
+DungeonLocations.lua
+DungeonLocationsData.lua
+DungeonLocationsWorldMapData.lua
