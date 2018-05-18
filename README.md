@@ -14,4 +14,4 @@ Shows locations of dungeons and raids on world map
 Please use the [issue tracker on Curse Forge](https://wow.curseforge.com/projects/dungeon-locations/issues) for bug reports or improvement requests. You may also suggest additional dungeon information to add to the tooltips. 
 Feel free to make changes to the codebase and perform a pull request!
 
-More Details and packaged downloads: https://wow.curseforge.com/projects/dungeon-locations
+More details, screenshots and packaged downloads: https://wow.curseforge.com/projects/dungeon-locations
